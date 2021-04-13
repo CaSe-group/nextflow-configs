@@ -9,3 +9,4 @@
 ```bash
 nextflow run <workflow name> <workflow flags> -c <workflow-name>.config -profile ukj_cloud
 ```
+
