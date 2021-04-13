@@ -1,4 +1,5 @@
-# nextflow configs for the university hospital jena
+# nextflow configs 
+## jena university hospital
 *if you are not part of the CaSe group this repo might be useless to you*
 
 * this is a storage for config profiles for external workflows
